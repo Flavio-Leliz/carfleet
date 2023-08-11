@@ -28,8 +28,14 @@ yarn-error.*
 .DS_Store
 *.pem
 
+# android
+.android
+
 # local env files
 .env*.local
 
 # typescript
 *.tsbuildinfo
+
+# global
+.env
